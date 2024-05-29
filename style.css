@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+    justify-content:flex-start;
+    height:50px;
+}
+.fibonacci-item1 {
+    flex:1;
+
+    background-color:rgb(175, 99, 99);  
+}
+.fibonacci-item2 {
+    background-color:rgb(106, 92, 92);
+    flex:1;
+}
+.fibonacci-item3 {
+    flex:1;
+    background-color:rgb(200, 145, 43);
+}
+.fibonacci-item4 {
+    background-color:rgb(240, 217, 175);
+    flex:2;
+}
+.fibonacci-item5 {
+    background-color:rgb(103, 135, 38);
+    flex:3;
+}
+.fibonacci-item6 {
+    background-color:rgb(60, 194, 194);
+    flex:5;
+}
+.fibonacci-item7 {
+    background-color:rgb(47, 237, 237);
+    flex:8;
+}
+.fibonacci-item8 {
+    background-color:azure;
+    flex:13;
+}
+.fibonacci-item9 {
+    flex:21;
+    background-color:rgb(150, 150, 26);
+}
+.fibonacci-item10 {
+    background-color:beige;
+    flex:34;
+}
